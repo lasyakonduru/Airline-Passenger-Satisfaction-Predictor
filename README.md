@@ -97,12 +97,12 @@ The goal of this project is to build a **classification model** that can predict
   - Scatter plots
   - Count plots
   - Feature importance chart
-- Celebratory visuals with `st.balloons()` 🎈
 
 #### 3️⃣ Prediction Page
 - Interactive sliders for user input:
   - Seat Comfort, Inflight WiFi, Online Boarding, Entertainment, Cleanliness, etc.
 - Dynamic prediction result (Satisfied / Not Satisfied)
+- Celebratory visuals with `st.balloons()` 🎈
 - Smart recommendations based on inputs (e.g., “Improve WiFi service”, “Reduce delays”)
 
 ---
