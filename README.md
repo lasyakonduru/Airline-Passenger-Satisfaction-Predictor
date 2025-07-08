@@ -78,11 +78,9 @@ The goal of this project is to build a **classification model** that can predict
 
 ## 🌐 Part 3: Streamlit App
 
-### 🔗 Live App:
-[🌍 Open Streamlit App](https://your-deployment-link.streamlit.app)
+### 🔗 Live App: [🌍 Open Streamlit App](https://your-deployment-link.streamlit.app)
 
-### 🎥 Demo Video:
-[▶️ Watch on Loom](https://www.loom.com/share/your-video-link)
+### 🎥 Demo Video: [▶️ Watch on Loom](https://www.loom.com/share/your-video-link)
 
 ### 🧠 App Features:
 
@@ -148,4 +146,5 @@ Based on model insights:
 
 ## 📫 Contact
 **Lasya Priya Konduru**
+
 [LinkedIn](https://www.linkedin.com/in/lasya-priya-k/) | [GitHub](https://github.com/lasyakonduru) | [Email](konduru.lasya@gmail.com)
