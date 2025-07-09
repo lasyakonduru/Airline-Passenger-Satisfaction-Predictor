@@ -78,9 +78,9 @@ The goal of this project is to build a **classification model** that can predict
 
 ## 🌐 Part 3: Streamlit App
 
-### 🔗 Live App: [🌍 Open Streamlit App](https://your-deployment-link.streamlit.app)
+### 🔗 Live App: [🌍 Open Streamlit App](https://airline-passenger-satisfaction-predictor.streamlit.app/)
 
-### 🎥 Demo Video: [▶️ Watch on Loom](https://www.loom.com/share/your-video-link)
+### 🎥 Demo Video: [▶️ Watch on Loom]((https://www.loom.com/share/5d26eb3cc4b4484ba66edc48cd6be5e7?sid=e25be686-63c3-485d-bf0c-d9bb604e7508)
 
 ### 🧠 App Features:
 
